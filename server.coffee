@@ -42,7 +42,7 @@ setup_server = () ->
       holder : false,
       list: [],
       last_modified: get_time(),
-      auto_admin: false,
+      auto_admin: true,
       message: "ball created"
     }
 
